@@ -7,5 +7,7 @@ public class GitRebaseMerge {
         System.out.println("third commit from f3");
         System.out.println("third commit from f4");
         System.out.println("third commit from f5");
+
+        System.out.println("rebase ");
     }
 }
